@@ -7,9 +7,9 @@
 
 | Name | Responsibilities |
 |------|------------------|
-| Premier Ufitinema | Part 1 (EM Algorithm), Part 3 Iteration 2, Part 4 Gradient Descent Code |
+| Premier Ufitinema | Part 1 Analysis & Presentation, Part 3 Iteration 2, Part 4 Gradient Descent Code |
 | Semana Shema Parfait | Part 2 Bayesian Probability, Part 3 Iteration 1 |
-| Nina Bwiza | Part 1 Analysis & Presentation, Part 3 Iteration 3, README & Presentation |
+| Nina Bwiza | Part 1 (EM Algorithm) , Part 3 Iteration 3, README & Presentation |
 
 ## Project Objective
 
