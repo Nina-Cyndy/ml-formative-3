@@ -84,6 +84,7 @@ https://docs.google.com/spreadsheets/d/1UsjiSMWs3XiqyPyoqt3lsB7zkSrNZco9JZoWUBBZ
 - Gradient Descent Iteration 1
 
 ### Nina Bwiza
+- EM Algorithm
 - Gradient Descent Iteration 3
 - Presentation & Documentation
 
